@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&color=1ED760&center=true&vCenter=true&width=600&height=40&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;JavaScript+%7C+Python+%7C;Let's+Build+Awesome+Stuff!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&color=1ED760&center=true&vCenter=true&width=600&height=40&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;JavaScript+%7C+C+++%7C;Let's+Build+Awesome+Stuff!" />
 </p>
 
 ---
